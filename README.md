@@ -1,2 +1,1 @@
-# Apps
-SMC Apps
+Apps for smc made by me.
